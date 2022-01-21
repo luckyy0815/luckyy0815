@@ -1,0 +1,7 @@
+Hallo test
+<<<<<<< HEAD
+ich bin grün
+aber bunt
+=======
+ich bin grün oder rot
+>>>>>>> 04346021ecc0f73b542bc6d25fb9efde81e85227
